@@ -1,0 +1,28 @@
+{
+  "name": "Your Name",
+  "major": "Your Major",
+  "year": "Your Year",
+  "interests": [
+    "Interest 1",
+    "Interest 2"
+  ],
+  "background": "A brief description of your background and experiences",
+  "goals": "Your academic and career goals",
+  "writing_style": "Your preferred writing style (formal, casual, etc.)",
+  "academic_focus": "Your main areas of academic focus",
+  "extracurriculars": [
+    "Activity 1",
+    "Activity 2"
+  ],
+  "research_interests": [
+    "Research Area 1",
+    "Research Area 2"
+  ],
+  "career_aspirations": "Your career goals and aspirations",
+  "personal_values": [
+    "Value 1",
+    "Value 2"
+  ],
+  "learning_style": "Your preferred learning style",
+  "communication_style": "How you prefer to communicate ideas"
+} 
